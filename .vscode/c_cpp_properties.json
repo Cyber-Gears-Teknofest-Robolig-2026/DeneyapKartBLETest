@@ -8,10 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/Burak/Desktop/platformio_test/include",
-                "C:/Users/Burak/Desktop/platformio_test/src",
-                "C:/Users/Burak/Desktop/platformio_test/lib/JsonStatus",
-                "C:/Users/Burak/Desktop/platformio_test/.pio/libdeps/deneyapkart1Av2/ArduinoJson/src",
+                "C:/Users/Burak/Desktop/platformio_tests/DeneyapKartBLETest/include",
+                "C:/Users/Burak/Desktop/platformio_tests/DeneyapKartBLETest/src",
+                "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/newlib/platform_include",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos",
@@ -213,7 +212,6 @@
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/variants/deneyapkart1Av2",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
-                "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
                 "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
@@ -249,10 +247,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/Burak/Desktop/platformio_test/include",
-                    "C:/Users/Burak/Desktop/platformio_test/src",
-                    "C:/Users/Burak/Desktop/platformio_test/lib/JsonStatus",
-                    "C:/Users/Burak/Desktop/platformio_test/.pio/libdeps/deneyapkart1Av2/ArduinoJson/src",
+                    "C:/Users/Burak/Desktop/platformio_tests/DeneyapKartBLETest/include",
+                    "C:/Users/Burak/Desktop/platformio_tests/DeneyapKartBLETest/src",
+                    "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/newlib/platform_include",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos",
@@ -454,7 +451,6 @@
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/variants/deneyapkart1Av2",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
-                    "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src",
                     "C:/Users/Burak/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src",
